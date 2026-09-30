@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 224 224" role="img" aria-labelledby="title">
+  <title id="title">Department of Social Welfare, City of Manila seal</title>
+  <defs>
+    <clipPath id="seal-art">
+      <circle cx="112" cy="111" r="66" />
+    </clipPath>
+    <path id="top-arc" d="M27 111a85 85 0 0 1 170 0" />
+    <path id="bottom-arc" d="M29 114a83 83 0 0 0 166 0" />
+  </defs>
+  <circle cx="112" cy="112" r="106" fill="#fff" stroke="#262626" stroke-width="2" />
+  <circle cx="112" cy="112" r="98" fill="#fff" stroke="#262626" stroke-width="1.5" />
+  <text fill="#222" font-family="Arial, sans-serif" font-size="16" font-weight="500" letter-spacing="1.1">
+    <textPath href="#top-arc" startOffset="50%" text-anchor="middle">DEPARTMENT OF SOCIAL WELFARE</textPath>
+  </text>
+  <text fill="#222" font-family="Arial, sans-serif" font-size="18" font-style="italic" font-weight="500">
+    <textPath href="#bottom-arc" startOffset="50%" text-anchor="middle">City of Manila</textPath>
+  </text>
+  <circle cx="112" cy="111" r="69" fill="#fff" stroke="#252525" stroke-width="2" />
+  <g clip-path="url(#seal-art)">
+    <rect x="45" y="45" width="134" height="132" fill="#f5f5f2" />
+    <path d="M108 44h72v83h-50c-11-15-18-36-22-83" fill="#1719d8" />
+    <path d="M45 94c18-17 34-19 50-11 12 6 16 18 26 30 13 15 28 18 48 16-5 30-21 49-50 53H45z" fill="#e31d26" />
+    <path d="M46 106c17-15 31-19 43-11 12 7 17 25 31 36 12 9 25 12 43 8" fill="none" stroke="#fff" stroke-width="8" />
+    <path d="M99 129h44v35H99z" fill="#b20e15" stroke="#282828" stroke-width="1.5" />
+    <path d="M94 128h54v5H94z" fill="#222" />
+    <path d="M98 123h46l5 5H93z" fill="#f4f0dc" stroke="#222" stroke-width="1" />
+    <path d="M104 110h34v19h-34z" fill="#d51a20" stroke="#222" stroke-width="1.4" />
+    <path d="M101 110h40l-4-5h-32z" fill="#222" />
+    <path d="M109 103h24v-5l-4-3v-5l-4-3v-5h-8v5l-4 3v5l-4 3z" fill="#f4dc26" stroke="#252525" stroke-width="1.4" />
+    <path d="M116 104V78l5-5 5 5v26m-10-18h10m-7 3v8m5-8v8" fill="none" stroke="#282828" stroke-width="1.5" />
+    <path d="M145 127h28v22h-28z" fill="#f1dc20" stroke="#252525" stroke-width="1.5" />
+    <path d="M145 134h28m-20 0v15m9-15v15m-17-7h28" fill="none" stroke="#282828" stroke-width="1.5" />
+    <path d="M67 132h28v18H67z" fill="#201d1b" />
+    <path d="M72 136v4m7-4v4m7-4v4m-14 3v5m7-5v5m7-5v5" stroke="#df171e" stroke-width="3" />
+    <path d="M70 132l11-8 11 8" fill="#f4f0dc" stroke="#282828" stroke-width="1.5" />
+    <path d="M51 160h125v7H51z" fill="#d81920" />
+    <text x="112" y="166" fill="#282828" font-family="Arial, sans-serif" font-size="8" text-anchor="middle">1965</text>
+    <path d="M57 146c7-9 12-13 17-12 5 1 4 5 0 8l-8 7c5-2 10-1 11 3-4 4-11 8-18 8h-9z" fill="#fff" stroke="#262626" stroke-width="1.5" />
+    <path d="M152 75v11m-6-6h12" stroke="#f4e522" stroke-width="2" />
+  </g>
+  <circle cx="112" cy="111" r="66" fill="none" stroke="#252525" stroke-width="1.5" />
+  <path d="m42 166 4 3 4-3-1.5 5 4 3h-5l-1.5 5-1.5-5h-5l4-3zM174 166l4 3 4-3-1.5 5 4 3h-5l-1.5 5-1.5-5h-5l4-3z" fill="#e7cf19" />
+</svg>
